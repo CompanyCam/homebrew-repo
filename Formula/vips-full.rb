@@ -1,4 +1,4 @@
-class Vips < Formula
+class VipsFull < Formula
   desc "Image processing library"
   homepage "https://github.com/libvips/libvips"
   url "https://github.com/libvips/libvips/releases/download/v8.9.1/vips-8.9.1.tar.gz"
