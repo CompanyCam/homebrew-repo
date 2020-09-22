@@ -1,4 +1,4 @@
-class GobjectIntrospection < Formula
+class GobjectIntrospectionFull < Formula
   include Language::Python::Shebang
 
   desc "Generate introspection data for GObject libraries"
